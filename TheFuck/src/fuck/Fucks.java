@@ -1,0 +1,13 @@
+package fuck;
+
+public class Fucks {
+	
+	public static void Fucks() {
+		
+	}
+	
+	public static void fuckers() {
+		System.out.println("WHERE ARE MY FILES DUDE!?");
+	}
+
+}
