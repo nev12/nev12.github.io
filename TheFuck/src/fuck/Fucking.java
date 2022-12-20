@@ -8,6 +8,8 @@ public class Fucking {
 		Fucks fucks = new Fucks();
 		
 		fucks.fuckers();
+		
+		fucks.forget();
 
 	}
 
