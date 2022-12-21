@@ -17,5 +17,9 @@ public class Fucks {
 	public static void no() {
 		System.out.println("what now");
 	}
+	
+	public static void image() {
+		System.out.println("recimo opet nova slika ili recimo hello-world-image");
+	}
 
 }

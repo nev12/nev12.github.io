@@ -12,6 +12,8 @@ public class Fucking {
 		fucks.forget();
 		
 		fucks.no();
+		
+		fucks.image();
 
 	}
 
