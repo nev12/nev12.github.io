@@ -25,6 +25,7 @@ public class Fucks {
 	
 	public static void image() {
 		System.out.println("recimo opet nova slika ili recimo hello-world-image");
+		System.out.println("i sad recimo da smo je resajzovali");
 	}
 
 }
