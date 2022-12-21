@@ -13,5 +13,9 @@ public class Fucks {
 	public static void forget() {
 		System.out.println("YOU FORGOT ME :(");
 	}
+	
+	public static void fix() {
+		System.out.println("the error is fixed!");
+	}
 
 }

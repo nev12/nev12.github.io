@@ -10,6 +10,8 @@ public class Fucking {
 		fucks.fuckers();
 		
 		fucks.forget();
+		
+		fucks.fix();
 
 	}
 
