@@ -13,6 +13,10 @@ public class Fucking {
 		
 		fucks.fix();
 
+		fucks.no();
+		
+		fucks.image();
+
 	}
 
 }
